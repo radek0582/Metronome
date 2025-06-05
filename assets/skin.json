@@ -1,0 +1,27 @@
+{
+"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+	"font": {
+		"file": "font.fnt"
+	}
+},
+"com.badlogic.gdx.graphics.Color": {
+	"font": {
+		"r": 0.21176471,
+		"g": 0.24705882,
+		"b": 0.21960784,
+		"a": 1
+	},
+	"white": {
+		"r": 1,
+		"g": 1,
+		"b": 1,
+		"a": 1
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable": {
+	"white": {
+		"name": "white-pixel",
+		"color": "white"
+	}
+}
+}

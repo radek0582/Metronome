@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267662193336",
+    "project_id": "arrows-70024",
+    "storage_bucket": "arrows-70024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267662193336:android:6ed377f8af7ae7a52afa4d",
+        "android_client_info": {
+          "package_name": "com.mygdx.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267662193336-rkpuggnukkfnonkjlumapo81ued9av9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygdx.game",
+            "certificate_hash": "00e5715caa0d4830a619053ae87f2ae7bcba667b"
+          }
+        },
+        {
+          "client_id": "267662193336-vbtitagr5g6kp1fbrp33hp18rocdk1h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj_M-d_AV3VcN1X1NmZ9kfn6g-fVyOzEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267662193336-vbtitagr5g6kp1fbrp33hp18rocdk1h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
